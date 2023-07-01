@@ -1,0 +1,6 @@
+{
+    "port": 3000,
+    "jwtSecret": "sdsf84864sgrggkfkl545",
+    "mongoUri": "mongodb+srv://poghos877:poghos2000@cluster0.xwzomcc.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:3000/"
+}
